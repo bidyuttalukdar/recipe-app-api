@@ -1,0 +1,2 @@
+docker > 3.2 but < 3.3
+dockerFrameWork > 3.12 but < 3.13
